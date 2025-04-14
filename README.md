@@ -57,8 +57,8 @@ I'm a dedicated QA professional specializing in both manual and automated testin
 
 <div align="center">
 
-[![API Testing Framework](https://github-readme-stats.vercel.app/api/pin/?username=huy&repo=api-testing-framework&theme=radical)](https://github.com/huy/api-testing-framework)
-[![UI Automation Suite](https://github-readme-stats.vercel.app/api/pin/?username=huy&repo=ui-automation-suite&theme=radical)](https://github.com/huy/ui-automation-suite)
+[![API Testing Framework](https://github-readme-stats.vercel.app/api/pin/?username=huy&repo=api-testing-framework&theme=radical)](https://github.com/HuyBui111/nhom7-21DTHB4.github.io)
+[![UI Automation Suite](https://github-readme-stats.vercel.app/api/pin/?username=huy&repo=ui-automation-suite&theme=radical)](https://github.com/HuyBui111/DACN.github.io)
 
 </div>
 
@@ -80,9 +80,9 @@ I'm a dedicated QA professional specializing in both manual and automated testin
 
 <div align="center">
   
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/huy)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/huy)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/HuyBui111)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/huybuiquoc)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:huybui633@gmail.com)
 
 </div>
 
