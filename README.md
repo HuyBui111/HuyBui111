@@ -3,7 +3,7 @@
 > Passionate Software QA Engineer turning bugs into features
 
 <div align="center">
-  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" alt="Software Testing Animation" width="500">
+  <img src="https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif" alt="Software Testing Animation" width="600">
 </div>
 
 ## 🧪 About Me
@@ -42,8 +42,8 @@ I'm a dedicated QA professional specializing in both manual and automated testin
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=huy&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huy&layout=compact&theme=tokyonight" alt="Top Languages" height="170">
+  <img src="https://github-readme-stats.vercel.app/api?username=HuyBui111&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="170">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HuyBui111&layout=compact&theme=tokyonight" alt="Top Languages" height="170">
 </div>
 
 ## 🎯 Career Goals
@@ -57,8 +57,8 @@ I'm a dedicated QA professional specializing in both manual and automated testin
 
 <div align="center">
 
-[![API Testing Framework](https://github-readme-stats.vercel.app/api/pin/?username=huy&repo=api-testing-framework&theme=radical)](https://github.com/HuyBui111/nhom7-21DTHB4.github.io)
-[![UI Automation Suite](https://github-readme-stats.vercel.app/api/pin/?username=huy&repo=ui-automation-suite&theme=radical)](https://github.com/HuyBui111/DACN.github.io)
+[![Group Project](https://github-readme-stats.vercel.app/api/pin/?username=HuyBui111&repo=nhom7-21DTHB4.github.io&theme=radical)](https://github.com/HuyBui111/nhom7-21DTHB4.github.io)
+[![Final Project](https://github-readme-stats.vercel.app/api/pin/?username=HuyBui111&repo=DACN.github.io&theme=radical)](https://github.com/HuyBui111/DACN.github.io)
 
 </div>
 
@@ -81,7 +81,7 @@ I'm a dedicated QA professional specializing in both manual and automated testin
 <div align="center">
   
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/HuyBui111)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/huybuiquoc)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/huybuiquoc)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:huybui633@gmail.com)
 
 </div>
@@ -89,7 +89,7 @@ I'm a dedicated QA professional specializing in both manual and automated testin
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=huy&color=blueviolet&style=flat-square" alt="Profile views">
+  <img src="https://komarev.com/ghpvc/?username=HuyBui111&color=blueviolet&style=flat-square" alt="Profile views">
   
   <sub>⭐️ From [Huy](https://github.com/HuyBui111)</sub>
 </div>
