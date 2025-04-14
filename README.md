@@ -57,8 +57,12 @@ I'm a dedicated QA professional specializing in both manual and automated testin
 
 <div align="center">
 
-[![Group Project](https://github-readme-stats.vercel.app/api/pin/?username=HuyBui111&repo=nhom7-21DTHB4.github.io&theme=radical)](https://github.com/HuyBui111/nhom7-21DTHB4.github.io)
-[![Final Project](https://github-readme-stats.vercel.app/api/pin/?username=HuyBui111&repo=DACN.github.io&theme=radical)](https://github.com/HuyBui111/DACN.github.io)
+<a href="https://github.com/HuyBui111/nhom7-21DTHB4.github.io">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=HuyBui111&repo=nhom7-21DTHB4.github.io&theme=radical" alt="Group Project" height="140">
+</a>
+<a href="https://github.com/HuyBui111/DACN.github.io">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=HuyBui111&repo=DACN.github.io&theme=radical" alt="Final Project" height="140">
+</a>
 
 </div>
 
